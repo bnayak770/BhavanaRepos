@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "SampleBIFilePBIP"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ba154e91-c6ec-4221-9c85-f4eb26c2bd06"
+  }
+}
